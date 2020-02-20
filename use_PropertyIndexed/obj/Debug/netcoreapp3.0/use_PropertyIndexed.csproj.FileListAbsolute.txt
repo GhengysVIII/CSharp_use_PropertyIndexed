@@ -1,0 +1,11 @@
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\bin\Debug\netcoreapp3.0\use_PropertyIndexed.exe
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\bin\Debug\netcoreapp3.0\use_PropertyIndexed.deps.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\bin\Debug\netcoreapp3.0\use_PropertyIndexed.runtimeconfig.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\bin\Debug\netcoreapp3.0\use_PropertyIndexed.runtimeconfig.dev.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\bin\Debug\netcoreapp3.0\use_PropertyIndexed.dll
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\bin\Debug\netcoreapp3.0\use_PropertyIndexed.pdb
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\obj\Debug\netcoreapp3.0\use_PropertyIndexed.csprojAssemblyReference.cache
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\obj\Debug\netcoreapp3.0\use_PropertyIndexed.AssemblyInfoInputs.cache
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\obj\Debug\netcoreapp3.0\use_PropertyIndexed.AssemblyInfo.cs
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\obj\Debug\netcoreapp3.0\use_PropertyIndexed.dll
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_PropertyIndexed\use_PropertyIndexed\obj\Debug\netcoreapp3.0\use_PropertyIndexed.pdb

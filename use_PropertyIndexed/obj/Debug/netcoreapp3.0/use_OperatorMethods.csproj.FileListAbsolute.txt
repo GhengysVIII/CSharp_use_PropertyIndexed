@@ -1,0 +1,11 @@
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\bin\Debug\netcoreapp3.0\use_OperatorMethods.exe
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\obj\Debug\netcoreapp3.0\use_OperatorMethods.csprojAssemblyReference.cache
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\obj\Debug\netcoreapp3.0\use_OperatorMethods.AssemblyInfoInputs.cache
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\obj\Debug\netcoreapp3.0\use_OperatorMethods.AssemblyInfo.cs
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\bin\Debug\netcoreapp3.0\use_OperatorMethods.deps.json
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\bin\Debug\netcoreapp3.0\use_OperatorMethods.runtimeconfig.json
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\bin\Debug\netcoreapp3.0\use_OperatorMethods.runtimeconfig.dev.json
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\bin\Debug\netcoreapp3.0\use_OperatorMethods.dll
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\bin\Debug\netcoreapp3.0\use_OperatorMethods.pdb
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\obj\Debug\netcoreapp3.0\use_OperatorMethods.dll
+C:\Users\THE-F\source\repos\use_OperatorMethods\use_OperatorMethods\obj\Debug\netcoreapp3.0\use_OperatorMethods.pdb
